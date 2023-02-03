@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Wings Dark Global Theme
+Name=Wings-Dark-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Wings-Dark-Global
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1919151,kns://colorschemes.knsrc/api.kde-look.org/1919151,kns://plasma-themes.knsrc/api.kde-look.org/1919156,kns://icons.knsrc/api.kde-look.org/1898626,kns://icons.knsrc/api.kde-look.org/1898619,kns://aurorae.knsrc/api.kde-look.org/1919149,kns://aurorae.knsrc/api.kde-look.org/1919147,kns://aurorae.knsrc/api.kde-look.org/1919147,kns://wallpaper.knsrc/api.kde-look.org/1919139,kns://wallpaper.knsrc/api.kde-look.org/1919137,kns://sddmtheme.knsrc/api.kde-look.org/1919146
