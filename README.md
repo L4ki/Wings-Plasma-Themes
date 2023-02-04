@@ -26,6 +26,7 @@ Download:
 
 
 Screenshots:
+------------
 
 ![Screenshot_20230202_130049](https://user-images.githubusercontent.com/45247573/216758215-4054236a-ee46-49e2-99ac-70b71fdda94e.png)
 
