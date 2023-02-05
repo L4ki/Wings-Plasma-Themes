@@ -5,8 +5,8 @@ Wings Themes For Plasma Desktop
 "Wings-Dark-Plasma" 
 ------------------
 
-Download:
----------
+Download: https://www.pling.com/p/1982111/
+-------------------------------------------
 
 
 
