@@ -48,6 +48,11 @@ Added icon: cadence.svg
 
 Update icon: device.svg
 
+Aurorae Theme "Wings-Light-Aurorae"
+----------------------------------
+
+Update: decoration.svg
+
 Icons
 -----
 
