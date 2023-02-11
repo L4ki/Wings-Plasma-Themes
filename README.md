@@ -53,7 +53,4 @@ Icons
 
 Added icons: apps
 
-GTK Theme
----------
 
-Update: checkbox-checked-insensitive.png
