@@ -25,15 +25,15 @@
     <path
        d="M 40,14.206673 V 15.666391 16 c -0.610119,-0.0033 -0.998743,0.436679 -1,1.079188 v 7.708322 c 0,5.616293 7.999999,5.616293 7.999999,0 V 17.079188 C 46.998099,16.436679 46.610118,15.996887 46,16 V 15.666391 14.206673 C 46,13 45.270051,13.004556 44.638961,12.99973 H 41.36104 C 40.728041,12.99973 40,13 40,14.206673 Z M 45.66666,16.999729 46,17 v 8 h -6 v -8 l 0.333337,-2.71e-4 z m -1.027699,-2.99973 c 0.209631,0.0041 0.37877,0.152242 0.382056,0.373 L 45,16 h -4 l -5.3e-5,-1.627001 c -7e-6,-0.222203 0.150037,-0.373 0.36104,-0.373 z"
        id="path1084-3"
-       style="color:#e5e9ef;fill:currentColor;fill-opacity:1;stroke-width:0.784105"
+       style="fill:currentColor;fill-opacity:1;stroke-width:0.784105"
        sodipodi:nodetypes="scccsscccccsscccccccccccssc"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text " />
     <path
        d="m 44.333336,21.001575 c -0.0023,1.187953 -1.438658,1.78068 -2.277406,0.939612 -0.838735,-0.841069 -0.24205,-2.276429 0.94591,-2.274789 0.736162,0.0015 1.332,0.599006 1.331496,1.335177 z"
        id="path1086-6"
-       style="color:#e5e9ef;fill:currentColor;fill-opacity:1;stroke-width:0.922108"
+       style="fill:currentColor;fill-opacity:1;stroke-width:0.922108"
        sodipodi:nodetypes="csccccc"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text " />
   </g>
   <style
      id="current-color-scheme"
@@ -66,8 +66,8 @@
      id="namedview14"
      showgrid="true"
      inkscape:zoom="9.812501"
-     inkscape:cx="34.394901"
-     inkscape:cy="16.560508"
+     inkscape:cx="34.547767"
+     inkscape:cy="16.662419"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
