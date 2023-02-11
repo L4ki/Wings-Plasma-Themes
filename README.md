@@ -37,3 +37,23 @@ Screenshots:
 ![Screenshot_20230202_130401](https://user-images.githubusercontent.com/45247573/216758261-41f10ce7-ef40-4ab6-be6a-45f7e69a2544.png)
 
 ![Screenshot_20230202_130137](https://user-images.githubusercontent.com/45247573/216758268-bda8089d-5140-43f8-99ee-a8f65d2e9175.png)
+
+Changelog: 11.02.2023.
+----------------------
+
+Plasma Theme
+------------
+
+Added icon: cadence.svg
+
+Update icon: device.svg
+
+Icons
+-----
+
+Added icons: apps
+
+GTK Theme
+---------
+
+Update: checkbox-checked-insensitive.png
