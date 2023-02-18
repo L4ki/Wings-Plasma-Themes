@@ -58,4 +58,17 @@ Icons
 
 Added icons: apps
 
+Changelog: 18.02.2023.
+----------------------
+
+Plasma Theme
+------------
+
+Update icon: start.svg, device.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
