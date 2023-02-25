@@ -72,3 +72,22 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 25.02.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Added icon: jami.svg
+
+Plasma Theme "Wings-Light-Plasma"
+--------------------------------
+
+Added Light Plasma Theme "Wings-Light-Plasma"
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
