@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Wings-Light-Plasma
+Comment=Wings Light Plasma Theme
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Email=lak1987@gmail.com
+X-KDE-PluginInfo-Name=Wings-Light-Plasma
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+
+
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.0
+intensity=0.4
+saturation=1.7
