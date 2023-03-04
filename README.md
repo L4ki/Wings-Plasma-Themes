@@ -111,4 +111,17 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 04.03.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: krfb.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
