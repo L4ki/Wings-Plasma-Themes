@@ -138,3 +138,22 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 18.03.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: corectrl.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Aurorae Tnemes
+--------------
+
+Update: Auroraerc
+
+
