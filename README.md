@@ -157,3 +157,17 @@ Aurorae Tnemes
 Update: Auroraerc
 
 
+Changelog: 25.03.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: antimicro.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
