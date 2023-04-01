@@ -170,4 +170,17 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 01.04.2023.
+----------------------
+
+Plasma Themes
+-------------
+
+Added icon: internet.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
