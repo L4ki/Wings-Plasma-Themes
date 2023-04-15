@@ -5,7 +5,7 @@
    version="1"
    id="svg128"
    sodipodi:docname="viewitem.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,10 +20,10 @@
      inkscape:pagecheckerboard="true"
      showgrid="true"
      inkscape:zoom="5.2053571"
-     inkscape:cx="26.415095"
-     inkscape:cy="62.339623"
+     inkscape:cx="8.64494"
+     inkscape:cy="77.900515"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -61,7 +61,7 @@
      transform="matrix(1.625,0,0,1.625,-103.875,-1201.625)"
      style="fill:#556fa6;fill-opacity:0.50196081;opacity:1">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
        d="m 71,745 h 8 v 4 h -8 z"
        id="path7" />
@@ -71,14 +71,14 @@
      transform="matrix(1.625,0,0,1.625,-103.875,-1201.625)"
      style="fill:#556fa6;fill-opacity:0.50196081;opacity:1">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
        d="m 71,757 h 8 v 4 h -8 z"
        id="path12" />
   </g>
   <path
      id="selected-center"
-     style="stroke-width:0.8125;fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+     style="stroke-width:0.8125;fill-opacity:0.50196081;fill:#556fa6;opacity:1"
      class="ColorScheme-Highlight"
      d="m 11.500004,15.500011 h 13 v 13 h -13 z" />
   <g
@@ -86,7 +86,7 @@
      transform="matrix(1.625,0,0,1.625,-103.875,-1201.625)"
      style="fill:#556fa6;fill-opacity:0.50196081;opacity:1">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
        d="m 79,749 h 4 v 8 h -4 z"
        id="path18" />
@@ -96,7 +96,7 @@
      transform="matrix(1.625,0,0,1.625,-103.875,-1201.625)"
      style="fill:#556fa6;fill-opacity:0.50196081;opacity:1">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
        d="m 67,749 h 4 v 8 h -4 z"
        id="path23" />
@@ -106,7 +106,7 @@
      transform="matrix(1.625,0,0,1.625,-103.875,-1201.625)"
      style="fill:#556fa6;fill-opacity:0.50196081;opacity:1">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
        d="m 71,745 v 4 h -4 c 0,0 0,-4 4,-4 z"
        id="path28" />
@@ -116,7 +116,7 @@
      transform="matrix(1.625,0,0,1.625,-103.875,-1201.625)"
      style="fill:#556fa6;fill-opacity:0.50196081;opacity:1">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
        d="m 79,745 c 4,0 4,4 4,4 h -4 z"
        id="path33" />
@@ -126,7 +126,7 @@
      transform="matrix(1.625,0,0,1.625,-103.875,-1201.625)"
      style="fill:#556fa6;fill-opacity:0.50196081;opacity:1">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
        d="m 67,757 h 4 v 4 c 0,0 -4,0 -4,-4 z"
        id="path38" />
@@ -136,7 +136,7 @@
      transform="matrix(1.625,0,0,1.625,-103.875,-1201.625)"
      style="fill:#556fa6;fill-opacity:0.50196081;opacity:1">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:0.15"
+       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
        d="m 79,757 h 4 c 0,0 0.01477,4 -4,4 z"
        id="path43" />
@@ -227,52 +227,47 @@
        id="path84" />
   </g>
   <g
-     id="selected_hover-top"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
+     id="selected+hover-top">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
+       style="fill:#556fa6;fill-opacity:0.501961;stroke-width:1.625"
        class="ColorScheme-Highlight"
-       d="m 71,745 h 8 v 4 h -8 z"
+       d="m 11.5,100 h 13 v 6.5 h -13 z"
        id="path89" />
   </g>
   <g
-     id="selected_hover-bottom"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
+     id="selected+hover-bottom">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
+       style="fill:#556fa6;fill-opacity:0.501961;stroke-width:1.625"
        class="ColorScheme-Highlight"
-       d="m 71,757 h 8 v 4 h -8 z"
+       d="m 11.5,119.5 h 13 v 6.5 h -13 z"
        id="path94" />
   </g>
-  <path
-     id="selected_hover-center"
-     style="stroke-width:0.8125;fill-opacity:0.50196081;fill:#556fa6;opacity:1"
-     class="ColorScheme-Highlight"
-     d="M 11.500002,106.50002 H 24.5 v 13 H 11.500002 Z" />
   <g
-     id="selected_hover-right"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
+     id="selected+hover-center">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
+       id="selected_hover-center"
+       style="stroke-width:0.8125;fill-opacity:0.50196081;fill:#556fa6;opacity:1"
        class="ColorScheme-Highlight"
-       d="m 79,749 h 4 v 8 h -4 z"
+       d="M 11.500002,106.50002 H 24.5 v 13 H 11.500002 Z" />
+  </g>
+  <g
+     id="selected+hover-right">
+    <path
+       style="fill:#556fa6;fill-opacity:0.501961;stroke-width:1.625"
+       class="ColorScheme-Highlight"
+       d="M 24.5,106.5 H 31 v 13 h -6.5 z"
        id="path100" />
   </g>
   <g
-     id="selected_hover-left"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
+     id="selected+hover-left">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
+       style="fill:#556fa6;fill-opacity:0.501961;stroke-width:1.625"
        class="ColorScheme-Highlight"
-       d="m 67,749 h 4 v 8 h -4 z"
+       d="m 5,106.5 h 6.5 v 13 H 5 Z"
        id="path105" />
   </g>
   <g
-     id="selected_hover-topleft"
+     id="selected+hover-topleft"
      transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
      style="fill:#556fa6;fill-opacity:0.50196081">
     <path
@@ -282,41 +277,35 @@
        id="path110" />
   </g>
   <g
-     id="selected_hover-topright"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
+     id="selected+hover-topright">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
+       style="fill:#556fa6;fill-opacity:0.501961;stroke-width:1.625"
        class="ColorScheme-Highlight"
-       d="m 79,745 c 4,0 4,4 4,4 h -4 z"
+       d="m 24.5,100 c 6.5,0 6.5,6.5 6.5,6.5 h -6.5 z"
        id="path115" />
   </g>
   <g
-     id="selected_hover-bottomleft"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
+     id="selected+hover-bottomleft">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
+       style="fill:#556fa6;fill-opacity:0.501961;stroke-width:1.625"
        class="ColorScheme-Highlight"
-       d="m 67,757 h 4 v 4 c 0,0 -4,0 -4,-4 z"
+       d="m 5,119.5 h 6.5 v 6.5 c 0,0 -6.5,0 -6.5,-6.5 z"
        id="path120" />
   </g>
   <g
-     id="selected_hover-bottomright"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
+     id="selected+hover-bottomright">
     <path
-       style="fill-opacity:0.50196081;fill:#556fa6;opacity:1"
+       style="fill:#556fa6;fill-opacity:0.501961;stroke-width:1.625"
        class="ColorScheme-Highlight"
-       d="m 79,757 h 4 c 0,0 0.01477,4 -4,4 z"
+       d="M 24.5,119.5 H 31 c 0,0 0.024,6.5 -6.5,6.5 z"
        id="path125" />
   </g>
   <g
      id="normal-top"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 94.165521,49.6278 h 12.999999 v 6.5 H 94.165521 Z"
        id="path48-6"
        class="ColorScheme-Highlight" />
@@ -324,9 +313,9 @@
   <g
      id="normal-bottom"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 94.165521,69.1278 h 12.999999 v 6.5 H 94.165521 Z"
        id="path53-5"
        class="ColorScheme-Highlight" />
@@ -334,19 +323,19 @@
   <g
      id="normal-center"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
        id="hover-center-3"
-       style="stroke-width:0.8125;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:0.8125;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 94.165527,56.127807 h 13.000003 v 13 H 94.165527 Z"
        class="ColorScheme-Highlight" />
   </g>
   <g
      id="normal-right"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 107.16552,56.1278 h 6.5 v 13 h -6.5 z"
        id="path59-6"
        class="ColorScheme-Highlight" />
@@ -354,9 +343,9 @@
   <g
      id="normal-left"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 87.665521,56.1278 h 6.5 v 13 h -6.5 z"
        id="path64-9"
        class="ColorScheme-Highlight" />
@@ -365,9 +354,9 @@
      id="normal-topleft"
      class="ColorScheme-Highlight"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 94.165521,49.6278 v 6.5 h -6.5 c 0,0 0,-6.5 6.5,-6.5 z"
        id="path69-2"
        class="ColorScheme-Highlight" />
@@ -375,9 +364,9 @@
   <g
      id="normal-topright"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 107.16552,49.6278 c 6.5,0 6.5,6.5 6.5,6.5 h -6.5 z"
        id="path74-0"
        class="ColorScheme-Highlight" />
@@ -385,9 +374,9 @@
   <g
      id="normal-bottomleft"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 87.665521,69.1278 h 6.5 v 6.5 c 0,0 -6.5,0 -6.5,-6.5 z"
        id="path79-3"
        class="ColorScheme-Highlight" />
@@ -395,9 +384,9 @@
   <g
      id="normal-bottomright"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:#556fa6;opacity:0.15"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 107.16552,69.1278 h 6.5 c 0,0 0.024,6.5 -6.5,6.5 z"
        id="path84-0"
        class="ColorScheme-Highlight" />
