@@ -20,11 +20,11 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      showgrid="true"
-     inkscape:zoom="5.2053571"
-     inkscape:cx="26.895369"
-     inkscape:cy="70.024014"
+     inkscape:zoom="2.6026786"
+     inkscape:cx="27.663808"
+     inkscape:cy="65.509434"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -144,96 +144,11 @@
        id="path43" />
   </g>
   <g
-     id="selected_hover-top"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
-    <path
-       style="fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-       class="ColorScheme-Highlight"
-       d="m 71,745 h 8 v 4 h -8 z"
-       id="path89" />
-  </g>
-  <g
-     id="selected_hover-bottom"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
-    <path
-       style="fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-       class="ColorScheme-Highlight"
-       d="m 71,757 h 8 v 4 h -8 z"
-       id="path94" />
-  </g>
-  <path
-     id="selected_hover-center"
-     style="stroke-width:0.8125;fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-     class="ColorScheme-Highlight"
-     d="M 11.500002,106.50002 H 24.5 v 13 H 11.500002 Z" />
-  <g
-     id="selected_hover-right"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
-    <path
-       style="fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-       class="ColorScheme-Highlight"
-       d="m 79,749 h 4 v 8 h -4 z"
-       id="path100" />
-  </g>
-  <g
-     id="selected_hover-left"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
-    <path
-       style="fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-       class="ColorScheme-Highlight"
-       d="m 67,749 h 4 v 8 h -4 z"
-       id="path105" />
-  </g>
-  <g
-     id="selected_hover-topleft"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
-    <path
-       style="fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-       class="ColorScheme-Highlight"
-       d="m 71,745 v 4 h -4 c 0,0 0,-4 4,-4 z"
-       id="path110" />
-  </g>
-  <g
-     id="selected_hover-topright"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
-    <path
-       style="fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-       class="ColorScheme-Highlight"
-       d="m 79,745 c 4,0 4,4 4,4 h -4 z"
-       id="path115" />
-  </g>
-  <g
-     id="selected_hover-bottomleft"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
-    <path
-       style="fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-       class="ColorScheme-Highlight"
-       d="m 67,757 h 4 v 4 c 0,0 -4,0 -4,-4 z"
-       id="path120" />
-  </g>
-  <g
-     id="selected_hover-bottomright"
-     transform="matrix(1.625,0,0,1.625,-103.875,-1110.625)"
-     style="fill:#556fa6;fill-opacity:0.50196081">
-    <path
-       style="fill-opacity:0.50196081;fill:currentColor;opacity:1;"
-       class="ColorScheme-Highlight"
-       d="m 79,757 h 4 c 0,0 0.01477,4 -4,4 z"
-       id="path125" />
-  </g>
-  <g
      id="normal-top"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 94.165521,49.6278 h 12.999999 v 6.5 H 94.165521 Z"
        id="path48-6"
        class="ColorScheme-Highlight" />
@@ -241,9 +156,9 @@
   <g
      id="normal-bottom"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 94.165521,69.1278 h 12.999999 v 6.5 H 94.165521 Z"
        id="path53-5"
        class="ColorScheme-Highlight" />
@@ -251,19 +166,19 @@
   <g
      id="normal-center"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
        id="hover-center-3"
-       style="stroke-width:0.8125;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:0.8125;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 94.165527,56.127807 h 13.000003 v 13 H 94.165527 Z"
        class="ColorScheme-Highlight" />
   </g>
   <g
      id="normal-right"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 107.16552,56.1278 h 6.5 v 13 h -6.5 z"
        id="path59-6"
        class="ColorScheme-Highlight" />
@@ -271,9 +186,9 @@
   <g
      id="normal-left"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 87.665521,56.1278 h 6.5 v 13 h -6.5 z"
        id="path64-9"
        class="ColorScheme-Highlight" />
@@ -282,9 +197,9 @@
      id="normal-topleft"
      class="ColorScheme-Highlight"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 94.165521,49.6278 v 6.5 h -6.5 c 0,0 0,-6.5 6.5,-6.5 z"
        id="path69-2"
        class="ColorScheme-Highlight" />
@@ -292,9 +207,9 @@
   <g
      id="normal-topright"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 107.16552,49.6278 c 6.5,0 6.5,6.5 6.5,6.5 h -6.5 z"
        id="path74-0"
        class="ColorScheme-Highlight" />
@@ -302,9 +217,9 @@
   <g
      id="normal-bottomleft"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 87.665521,69.1278 h 6.5 v 6.5 c 0,0 -6.5,0 -6.5,-6.5 z"
        id="path79-3"
        class="ColorScheme-Highlight" />
@@ -312,9 +227,9 @@
   <g
      id="normal-bottomright"
      transform="translate(-34.665521,5.3722)"
-     style="fill:#556fa6;fill-opacity:1">
+     style="fill:#556fa6;fill-opacity:0.01;opacity:0.01">
     <path
-       style="stroke-width:1.625;fill-opacity:1;fill:currentColor;opacity:0.15;"
+       style="stroke-width:1.625;fill-opacity:0.01;fill:#556fa6;opacity:0.15"
        d="m 107.16552,69.1278 h 6.5 c 0,0 0.024,6.5 -6.5,6.5 z"
        id="path84-0"
        class="ColorScheme-Highlight" />
@@ -384,10 +299,157 @@
      x="0.5"
      y="49" />
   <rect
-     style="opacity:0.01;fill:#aa8800;stroke:none;stroke-width:24.6242"
+     style="opacity:0.01;fill:#4285f4;stroke:none;stroke-width:24.6242;fill-opacity:0.01"
      id="hover-center"
      width="17.809505"
      height="17.809507"
      x="8.5952301"
      y="57.095207" />
+  <g
+     id="selected+hover-center"
+     transform="translate(37,3)">
+    <rect
+       id="hover-center-9"
+       width="17.809999"
+       height="18"
+       x="-28.405001"
+       y="102"
+       style="fill:#4285f4;fill-opacity:0.34902" />
+  </g>
+  <g
+     id="selected+hover-top"
+     transform="translate(37,3)">
+    <image
+       width="17.809505"
+       height="8.0952358"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAKCAYAAACwoK7bAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAGpJREFUKJHtzjEOwjAUBNEJckvF ATgAgvtfKw3ITrxDg1BaLJdMs83X01/UM3PysCnAZSIsEGAvwBVYJsEBNqAW4JZkgotAVyvwLL33 R5LT4WD0+wA7UNW1tNbu6hdLMgr7gV/qOmj8+6E3xU81PEVCosMAAAAASUVORK5CYII= "
+       id="hover-top-6"
+       x="-28.40477"
+       y="94" />
+    <path
+       style="color:#4285f4;fill:#4285f4;fill-opacity:0.35;stroke-width:1.29216"
+       class="ColorScheme-Highlight"
+       d="m -28.405,99 h 17.81 v 3 h -17.81 z"
+       id="path89-1" />
+  </g>
+  <g
+     id="selected+hover-bottom"
+     transform="translate(37,3)">
+    <image
+       width="17.809505"
+       height="8.0952358"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAKCAYAAACwoK7bAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAIxJREFUKJHt0DGOwlAMRdHr941A SEFk/zuYPWQZUNFTo3RR4kfHDCWB6biVLVmnMHz772IYhh/bR9s7IIFYafkx2M6qOgOHqtpJalUV EfEybtt/17R9sr0HtlXVgHi+WVfO83wBtpI2kgSwLMvad/zCtq8Rka01SYppmt5GAbLv+9s4jsrM AOi67iPwHYZKO8kZLOnVAAAAAElFTkSuQmCC "
+       id="hover-bottom-7"
+       x="-28.40477"
+       y="119.90474" />
+    <path
+       style="color:#4285f4;fill:#4285f4;fill-opacity:0.34902;stroke-width:1.29216"
+       class="ColorScheme-Highlight"
+       d="m -28.405,120 h 17.81 v 3 h -17.81 z"
+       id="path89-1-2" />
+  </g>
+  <g
+     id="selected+hover-right"
+     transform="translate(37,3)">
+    <image
+       width="8.0952358"
+       height="17.809507"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAWCAYAAAD5Jg1dAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAIRJREFUKJHtzTEOwjAUg2H75YUi Fuj9T8Ahco1O7MwoW5TELExJB8RaPH/6TQxLKd1775ukrdb6kPRc1/VlI+y93wBcJV0ALCQ952w+ Qklnkoukk5nFEIK5OydIMgJwkk7SzIwxRk7XACjJALC1xlIKAWAP7u4Pjw31dVHShH+//tSm4hsI WjXWODzyzQAAAABJRU5ErkJggg== "
+       id="hover-right-3"
+       x="-10.595259"
+       y="102.09521" />
+    <path
+       style="color:#4285f4;fill:#4285f4;fill-opacity:0.34902;stroke-width:1.29903"
+       class="ColorScheme-Highlight"
+       d="m -7.595,102 v 18 h -3 v -18 z"
+       id="path89-1-7" />
+  </g>
+  <g
+     id="selected+hover-left"
+     transform="translate(37,3)">
+    <image
+       width="8.0952358"
+       height="17.809507"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAWCAYAAAD5Jg1dAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAG9JREFUKJHtjbENhDAQBAdCSx/R ADEk5N9/P4gEkI9bEgf/xqYBWGmS09xuI+kDdEAPDDHGyczGEMKXn7QUIqnJb3+iu5f+qo2Xtuq0 u99P3+UVnykq4yIK8MQBWKIqmqQd2BJF0YAdWCUtkuZcPAHJSDGy5K4XwgAAAABJRU5ErkJggg== "
+       id="hover-left-3"
+       x="-36.5"
+       y="102.09521" />
+    <path
+       style="color:#4285f4;fill:#4285f4;fill-opacity:0.34902;stroke-width:1.29903"
+       class="ColorScheme-Highlight"
+       d="m -28.395,102 v 18 h -3 v -18 z"
+       id="path89-1-7-0" />
+  </g>
+  <g
+     id="selected+hover-topleft"
+     transform="translate(37,3)">
+    <image
+       width="8.0952358"
+       height="8.0952358"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAKNJREFUGJVdkEEKwjAQRV9q0qAV i10I4sY7ewLvoYfyAP3fzaSEDnwImZc3YRKA7QS0DLskgNRBByADpUtucO6gAhyBEzDFucb90MAc jQtwBRZgjgcVyE1dwnQF7pGbpBk42s65GzuF6Q48JT1sL5LOksreOIfpYXtZ1/U9juM3pfTr/1iB SdJse7H9qrV+iGp7Gjr4JGkqpWxQD26w7SJpZFd/qS06IbR5qpwAAAAASUVORK5CYII= "
+       id="hover-topleft-2"
+       x="-36.5"
+       y="94" />
+    <path
+       style="color:#4285f4;fill:#4285f4;fill-opacity:0.34902;stroke-width:0.75"
+       class="ColorScheme-Highlight"
+       d="m -28.395,99 v 3 h -3 c 0,0 0,-3 3,-3 z"
+       id="path110-3" />
+  </g>
+  <g
+     id="selected+hover-topright"
+     transform="translate(37,3)">
+    <image
+       width="8.0952358"
+       height="8.0952358"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAPdJREFUGJVtzs1Kw1AQhuHvxDbB KAiCYEBcBMRlKbkGb9CbyhVk46qULGIWekKalDlnftxUjcWB2T18vM7MMgB6egNgzjnD2SUArgFc AkgBXABwZub+g3cAbgDkANbf+ByumPnRzD5U9TPLMgdgBqBm5pYJKxF5UtWOmVMictM0QUSsrutg Zj/NbhiGVxFpQwh7ImpjjJ333p+WY1VVAuA3erfbbY/HY0lE7/M8d0TkD4fDXBRFrKpK/kQ3TbMd x/GZiPYxxg7AkOf53LZtWC0hM7+FEF5EJKpqMLPovY9lWXKyhJvNZmLmB1W9B3AL4CpN03Xf98kX VleiAsP8HJEAAAAASUVORK5CYII= "
+       id="hover-topright-5"
+       x="-10.595259"
+       y="94" />
+    <path
+       style="color:#4285f4;fill:#4285f4;fill-opacity:0.34902;stroke-width:0.75"
+       class="ColorScheme-Highlight"
+       d="m -7.595,102 h -3 v -3 c 0,0 3,0 3,3 z"
+       id="path110-3-0" />
+  </g>
+  <g
+     id="selected+hover-bottomright"
+     transform="translate(37,3)">
+    <image
+       width="8.0952358"
+       height="8.0952358"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAP9JREFUGJVdzrFOAlEQheF/dm5C dc3S7IvwCD6BBb2vSUFjRa+xJBYYExMWNmG54c46YyEa4qm/nHOEf1mtVk/AC/AsIq+q+jabzfrm Fm02m7uIqMAUEeY/CTOLdAvHcbwHxogoQHX3P/zXuF6vH8zsEdgDAzACl4iYcs6erp/MzE5AHxHv IvIJDKpaVNWOx6On6/EJKMBwRR9AD4y1Vuu6zhPwHBETcLnODUAvIgdVPeecbbvdehKR14hwdzfg oqoFGFX1XEopbdtOy+Uykqq+iUi4u0fEpKpWa7Wcs7VtOy0Wiy8gmqZp9imlXlUP8/l8qLWeuq4r u92u/iIRiW/hsKpLwK6dwQAAAABJRU5ErkJggg== "
+       id="hover-bottomright-5"
+       x="-10.595259"
+       y="119.90474" />
+    <path
+       style="color:#4285f4;fill:#4285f4;fill-opacity:0.34902;stroke-width:0.75"
+       class="ColorScheme-Highlight"
+       d="m -10.595,123 v -3 h 3 c 0,0 0,3 -3,3 z"
+       id="path110-3-0-2" />
+  </g>
+  <g
+     id="selected+hover-bottomleft"
+     transform="translate(37,3)">
+    <image
+       width="8.0952358"
+       height="8.0952358"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAP5JREFUGJVdkMtKw1AURfdpHvga GJDWQVHoQMFp+1t+Z0cZ+gGRgoGCKabmNueec7cDW9Cu8WKz2ELyAsANgDsze3D3pxDCc1VVr/hD DsABKIBvkl1KqSV5hTMmABKACGAoiuLTzD5U9b1pmpe/opCcAMgAlAAut9ttFUKYhRDuY4xv4zg2 q9VqEJICQI5y0bbt9TAMt33fzw6HwzzG+Ghm81xESBLH1mRm7LqOqkozo7ubu+9zABARAiBJWa/X ulgsZBxHAIC7a0rpK/8X/LvOuq6jqoYsy+juI4Bezm84Ndd1nalqvtvtirIsi8m5eMpYLpe+2Wx0 Op0GVd3/ADHWrdGn+VmdAAAAAElFTkSuQmCC "
+       id="hover-bottomleft-6"
+       x="-36.5"
+       y="119.90474" />
+    <path
+       style="color:#4285f4;fill:#4285f4;fill-opacity:0.34902;stroke-width:0.75"
+       class="ColorScheme-Highlight"
+       d="m -31.395,120 h 3 v 3 c 0,0 -3,0 -3,-3 z"
+       id="path110-3-0-2-1" />
+  </g>
 </svg>
