@@ -219,4 +219,40 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 22.04.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Added icon: lutris.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Added icon: lutris.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Changelog: 29.04.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Added icon: veracrypt.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Added icon: veracrypt.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
