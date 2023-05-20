@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="panel-background.svg"
    id="svg200"
    viewBox="0 0 173 66"
@@ -34,12 +34,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="32.615298"
-     inkscape:cx="67.17514"
-     inkscape:zoom="5.6568546"
+     inkscape:cy="43.999997"
+     inkscape:cx="95.874994"
+     inkscape:zoom="4.0000002"
      showgrid="true"
      id="namedview202"
-     inkscape:window-height="1004"
+     inkscape:window-height="992"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -52,7 +52,7 @@
      inkscape:pagecheckerboard="true"
      inkscape:lockguides="false"
      inkscape:showpageshadow="false"
-     inkscape:deskcolor="#000000">
+     inkscape:deskcolor="#1a1a1a">
     <inkscape:grid
        id="grid914"
        type="xygrid"
@@ -605,7 +605,7 @@
        class="ColorScheme-Background" />
     <path
        id="path962"
-       style="stroke-width:1.10332;fill-opacity:0.5;fill:#ffffff"
+       style="stroke-width:1.10332;fill-opacity:0.50196081;fill:#ffffff"
        d="M 57.99982,12.000876 C 49.999066,12 44,17.999649 44,25.999182 L 43.99982,26 h 1.000024 v -8.18e-4 c 0,-6.999591 4.999222,-12.99924 12.997976,-12.99924 v 0 V 12 Z"
        sodipodi:nodetypes="ccccscccc"
        class="ColorScheme-Background" />
@@ -621,7 +621,7 @@
        class="ColorScheme-Background" />
     <path
        id="path962-6"
-       style="stroke-width:1.10331;fill-opacity:0.5;fill:#ffffff"
+       style="stroke-width:1.10331;fill-opacity:0.50196081;fill:#ffffff"
        d="M 85.999124,25.99982 C 86,17.999066 80.000351,12 72.000818,12 L 72,11.99982 v 1.000024 h 8.18e-4 c 6.999591,0 12.99924,4.999222 12.99924,12.997976 v 0 H 86 Z"
        sodipodi:nodetypes="ccccscccc"
        class="ColorScheme-Background" />
@@ -637,7 +637,7 @@
        class="ColorScheme-Background" />
     <path
        id="path962-2"
-       style="stroke-width:1.10332;fill-opacity:0.5;fill:#ffffff"
+       style="stroke-width:1.10332;fill-opacity:0.50196081;fill:#ffffff"
        d="M 72,53.999124 C 80.000754,54 85.99982,48.000351 85.99982,40.000818 L 86,40 h -1.000024 v 8.18e-4 c 0,6.999591 -4.999222,12.99924 -12.997976,12.99924 v 0 V 54 Z"
        sodipodi:nodetypes="ccccscccc"
        class="ColorScheme-Background" />
@@ -653,7 +653,7 @@
        class="ColorScheme-Background" />
     <path
        id="path962-2-9"
-       style="stroke-width:1.10332;fill-opacity:0.5;fill:#fefefe"
+       style="stroke-width:1.10332;fill-opacity:0.50196081;fill:#ffffff"
        d="m 44.000934,40 c -8.76e-4,8.000754 5.998773,13.99982 13.998306,13.99982 L 58.000058,54 V 52.999976 H 57.99924 C 50.999649,52.999976 45,48.000754 45,40.002 v 0 h -0.999942 z"
        sodipodi:nodetypes="ccccscccc"
        class="ColorScheme-Background" />
@@ -696,7 +696,7 @@
        height="14"
        width="1"
        id="rect986-1"
-       style="stroke-width:0.763781;fill-opacity:0.5;fill:#ffffff"
+       style="stroke-width:0.763781;fill-opacity:0.50196081;fill:#ffffff"
        transform="matrix(0,-1,-1,0,0,0)"
        class="ColorScheme-Background" />
   </g>
@@ -716,7 +716,7 @@
        height="14"
        width="1"
        id="rect986-1-2"
-       style="stroke-width:0.763781;fill-opacity:0.5;fill:#ffffff"
+       style="stroke-width:0.763781;fill-opacity:0.50196081;fill:#ffffff"
        transform="scale(1,-1)"
        class="ColorScheme-Background" />
   </g>
@@ -737,7 +737,7 @@
        height="14"
        width="1"
        id="rect986-1-2-7"
-       style="stroke-width:0.763781;fill-opacity:0.5;fill:#ffffff"
+       style="stroke-width:0.763781;fill-opacity:0.50196081;fill:#ffffff"
        transform="scale(1,-1)"
        class="ColorScheme-Background" />
   </g>
