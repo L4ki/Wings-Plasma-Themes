@@ -291,4 +291,22 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 20.05.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Update widgets: panel-background.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Update widgets: panel-background.svg
+
+Icons
+-----
+
+Added new icons: apps 32
+
 
