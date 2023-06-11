@@ -346,3 +346,22 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 11.06.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Added icon: sirikali.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Update icon: quassel.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
