@@ -371,12 +371,12 @@ Changelog: 18.06.2023.
 Plasma Theme "Wings-Dark-Plasma"
 -------------------------------
 
-Update: metadata.desktop.svg
+Update: metadata.desktop
 
 Plasma Theme "Wings-Light-Plasma"
 ---------------------------------
 
-Update: metadata.desktop.svg
+Update: metadata.desktop
 
 Icons
 -----
