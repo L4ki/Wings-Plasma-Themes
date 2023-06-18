@@ -1,6 +1,6 @@
 [General]
 ActiveTextColor=30, 36, 49
-InactiveTextColor=122, 138, 173
+InactiveTextColor=145, 161, 188
 LeftButtons=XIA
 RightButtons=
 Shadow=false
