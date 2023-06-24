@@ -388,4 +388,21 @@ Aurorae Themes
 
 Update: Auroraerc
 
+Changelog: 25.06.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Added icon: skype.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Update icon: sirikali.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
 
