@@ -12,14 +12,15 @@ UseTextShadow=true
 Animation=0
 
 [Layout]
-BorderBottom=0
-BorderLeft=0
-BorderRight=0
-ButtonHeight=18
+BorderTop=4
+BorderLeft=1
+BorderRight=1
+BorderBottom=4
+ButtonHeight=19
 ButtonMarginTop=0
-ButtonSpacing=4
-ButtonWidth=18
-ExplicitButtonSpacer=0
+ButtonSpacing=8
+ButtonWidth=19
+ExplicitButtonSpacer=10
 PaddingBottom=17
 PaddingLeft=17
 PaddingRight=17
