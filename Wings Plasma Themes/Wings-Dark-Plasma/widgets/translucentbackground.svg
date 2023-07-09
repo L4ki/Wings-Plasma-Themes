@@ -7,7 +7,7 @@
    viewBox="0 0 97.999997 208"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="translucentbackground.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -310,8 +310,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.1864226"
-     inkscape:cx="62.923229"
-     inkscape:cy="115.49002"
+     inkscape:cx="40.798104"
+     inkscape:cy="90.383492"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -319,7 +319,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -442,7 +442,7 @@
          class="ColorScheme-Background" />
     </g>
     <g
-       id="top-right">
+       id="topright">
       <path
          id="path657"
          style="opacity:0.1;fill:url(#radialGradient663);stroke-width:1"
