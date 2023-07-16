@@ -428,3 +428,23 @@ Aurorae Themes
 ---------------
 
 Update: Auroraerc, decoration.svg
+
+Changelog: 16.07.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Update: lineedit.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Update: lineedit.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
