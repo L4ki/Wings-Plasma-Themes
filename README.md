@@ -465,4 +465,22 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 30.07.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Added widget: switch.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Added widget: switch.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
