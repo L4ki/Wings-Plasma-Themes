@@ -573,4 +573,22 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 10.09.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Update widget: bar_meter_horizontal.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Update widget: bar_meter_horizontal.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
