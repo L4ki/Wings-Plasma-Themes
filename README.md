@@ -592,3 +592,21 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 17.09.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Update widget: tabbar.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Added icon: skype.svg
+
+Icons
+-----
+
+Added new icons: apps 32
+
