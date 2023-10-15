@@ -5,7 +5,7 @@
    viewBox="0 0 230 85"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -17,12 +17,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Text { color:#31363b;        stop-color:#31363b; }
-.ColorScheme-Background { 
-    color:#1e2431;
-    stop-color:#1e2431;
-}
-</style>
+     id="current-color-scheme">.ColorScheme-Text { color:#31363b;        stop-color:#31363b; }&#10;.ColorScheme-Background { &#10;    color:#1e2431;&#10;    stop-color:#1e2431;&#10;}&#10;</style>
   <defs
      id="defs4">
     <linearGradient
@@ -50,41 +45,7 @@
     </linearGradient>
     <style
        type="text/css"
-       id="style22">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style>
+       id="style22">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4776"
@@ -393,41 +354,7 @@
        inkscape:collect="always" />
     <style
        id="current-color-scheme-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#7B7C7E;
-      }
-      .ColorScheme-Background{
-        color:#EFF0F1;
-      }
-      .ColorScheme-Highlight{
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ViewBackground{
-        color:#FCFCFC;
-      }
-      .ColorScheme-ViewHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ViewFocus{
-        color:#1E92FF;
-      }
-      .ColorScheme-ButtonText {
-        color:#7B7C7E;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#EFF0F1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#3DAEE6;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#1E92FF;
-      }
-</style>
+       type="text/css">&#10;      .ColorScheme-Text {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-Background{&#10;        color:#EFF0F1;&#10;      }&#10;      .ColorScheme-Highlight{&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-ViewBackground{&#10;        color:#FCFCFC;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#1E92FF;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-ButtonBackground{&#10;        color:#EFF0F1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#1E92FF;&#10;      }&#10;</style>
     <mask
        id="mask4270-9"
        maskUnits="userSpaceOnUse">
@@ -759,13 +686,13 @@
      inkscape:snap-smooth-nodes="true"
      id="base"
      pagecolor="#000000"
-     bordercolor="#f90000"
+     bordercolor="#ff0000"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="96.124998"
-     inkscape:cy="59.124999"
+     inkscape:zoom="2.8428029"
+     inkscape:cx="121.71086"
+     inkscape:cy="36.759495"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -773,7 +700,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -797,7 +724,11 @@
        type="xygrid"
        id="grid961"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
