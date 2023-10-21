@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="47"
-   height="45"
-   id="svg2"
+   width="21"
+   height="16.000004"
+   id="svg"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    version="1.0"
    sodipodi:docname="line.svg"
-   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="arrow-up.png"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -21,25 +18,25 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     id="base"
+     id="l4k1"
      pagecolor="#000000"
-     bordercolor="#ff0101"
+     bordercolor="#017f7f"
      borderopacity="1"
      gridtolerance="10000"
      guidetolerance="10"
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="20.75"
-     inkscape:cy="41.453125"
+     inkscape:zoom="23.560256"
+     inkscape:cx="11.629755"
+     inkscape:cy="9.8683138"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -50,31 +47,32 @@
      fit-margin-bottom="0"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false"
+     inkscape:document-rotation="0"
+     showguides="false"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#000000">
     <inkscape:grid
-       type="xygrid"
-       id="grid3101"
-       originx="0.9"
-       originy="1.5" />
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Highlight { color:#556fa6; }
-.ColorScheme-Text { color:#31363b; }
-.ColorScheme-Background { color:#565d8a; }
-.ColorScheme-ViewText { color:#31363b; }
-.ColorScheme-ViewBackground { color:#fcfcfc; }
-.ColorScheme-ViewHover { color:#3daee9; }
-.ColorScheme-ViewFocus { color:#3daee9; }
-.ColorScheme-ButtonText { color:#31363b; }
-.ColorScheme-ButtonBackground { color:#eff0f1; }
-.ColorScheme-ButtonHover { color:#3daee9; }
-.ColorScheme-ButtonFocus { color:#3daee9; }
-</style>
+       type="text/css">      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background{&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground{&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground{&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }</style>
   </defs>
   <metadata
      id="metadata7">
@@ -91,60 +89,45 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(-28,-14)">
+     transform="translate(-39,-14)">
     <g
        id="vertical-line"
        inkscape:label="#g3763"
-       transform="translate(-4.96875,0.40625)"
-       style="fill:#000000;fill-opacity:0.01;opacity:0.01">
+       transform="matrix(0.99999915,0,0,0.39999999,6.031278,8.5625003)">
       <path
-         style="color:#31363b;opacity:0.01;fill:#000000;fill-opacity:0.01;stroke:none"
+         style="color:#31363b;opacity:0.01;fill:currentColor;fill-opacity:0.3;stroke:none"
          d="m 32.96875,13.59375 v 40 h 3 v -40 z"
          id="path2993"
          inkscape:connector-curvature="0"
-         inkscape:label="#path2998" />
-      <path
-         style="opacity:0.01;fill:#000000;fill-opacity:0.01;stroke:none;stroke-width:1"
-         d="m 33.96875,13.59375 v 40 h 1 v -40 z"
-         id="path3785"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-Background"
+         class="ColorScheme-Text"
          inkscape:label="#path2998" />
       <path
          inkscape:label="#path2998"
+         class="ColorScheme-Text"
          inkscape:connector-curvature="0"
          id="path2998"
-         d="m 33.96875,13.59375 v 40 h 0.35 v -40 z"
-         style="stroke-width:0.591608;stroke:none;fill-opacity:0.01;fill:#000000"
-         class="  ColorScheme-Highlight" />
+         d="m 34.093749,13.59375 v 40 h 0.125 v -40 z"
+         style="opacity:0.01;fill:#2e75bc;fill-opacity:0.01;stroke-width:0.176777"
+         sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="horizontal-line"
        inkscape:label="#g3769"
-       transform="translate(-0.690972,0.471)"
-       style="fill:#00101a;fill-opacity:0.01;opacity:0.27677309">
+       transform="matrix(0.4,0,0,1.0000004,29.723611,-28.52902)">
       <path
+         class="ColorScheme-Text"
          inkscape:connector-curvature="0"
          id="path3767"
-         d="m 74.190972,55.529 h -40 c -2,0 -2,3 0,3 h 40 c 2,0 2,-3 0,-3 z"
-         style="color:#31363b;opacity:0.01;fill:#00101a;fill-opacity:0.01;stroke:none"
-         inkscape:label="#path2992"
-         sodipodi:nodetypes="ccccc" />
+         d="m 75.690972,55.529 h -40 v 3 h 40 z"
+         style="color:#31363b;opacity:0.01;fill:currentColor;fill-opacity:0.3;stroke:none"
+         inkscape:label="#path2992" />
       <path
-         inkscape:label="#path2992"
-         style="opacity:1;fill:#889cc3;fill-opacity:1;stroke:none;stroke-width:0.467866"
-         d="M 75.180531,57.329 H 32.878275 c -0.383074,0 -0.383074,0.2 0,0.2 h 42.302256 c 0.547251,0 0.547251,-0.2 0,-0.2 z"
-         id="path2992"
-         inkscape:connector-curvature="0"
-         class="ColorScheme-Background"
-         sodipodi:nodetypes="ccccc" />
-      <path
+         class="ColorScheme-Text"
          inkscape:connector-curvature="0"
          id="path3787"
-         d="m 75.190972,57.329 h -40 v 0.1 h 40 z"
-         style="opacity:0.01;fill:#00101a;fill-opacity:0.01;stroke:none;stroke-width:0.316228"
-         inkscape:label="#path2992"
-         class="ColorScheme-Highlight" />
+         d="m 75.690972,57.528997 h -40 v -0.124998 h 40 z"
+         style="opacity:1;fill:#556fa6;fill-opacity:1;stroke-width:0.577346"
+         inkscape:label="#path2992" />
     </g>
   </g>
 </svg>
