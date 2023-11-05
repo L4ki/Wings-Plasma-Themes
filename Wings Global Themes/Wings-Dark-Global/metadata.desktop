@@ -7,6 +7,6 @@ X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-Name=Wings-Dark-Global
-X-KDE-PluginInfo-Version=4.8
+X-KDE-PluginInfo-Version=4.9
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1982078,kns://colorschemes.knsrc/api.kde-look.org/1982082,kns://plasma-themes.knsrc/api.kde-look.org/1982111,kns://icons.knsrc/api.kde-look.org/1982098,kns://icons.knsrc/api.kde-look.org/1982094,kns://aurorae.knsrc/api.kde-look.org/1982091,kns://aurorae.knsrc/api.kde-look.org/1982089,kns://aurorae.knsrc/api.kde-look.org/1982086,kns://wallpaper.knsrc/api.kde-look.org/1982059,kns://wallpaper.knsrc/api.kde-look.org/1982061,kns://sddmtheme.knsrc/api.kde-look.org/1982074
