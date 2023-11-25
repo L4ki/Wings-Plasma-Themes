@@ -5,7 +5,7 @@
    version="1.1"
    id="svg75"
    sodipodi:docname="xine.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,10 +22,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="21.559322"
+     inkscape:cy="24.305085"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -36,11 +36,11 @@
        inkscape:collect="always"
        id="linearGradient897">
       <stop
-         style="stop-color:#fff8dc;stop-opacity:1;"
+         style="stop-color:#af83f8;stop-opacity:1"
          offset="0"
          id="stop893" />
       <stop
-         style="stop-color:#ffdfc8;stop-opacity:1;"
+         style="stop-color:#3cb1c3;stop-opacity:1"
          offset="1"
          id="stop895" />
     </linearGradient>
@@ -268,7 +268,8 @@
      fill="#bdc3c7"
      stroke-width="2.91264"
      d="m 3.0262335,23.866883 c -0.0042,0.172157 -0.0126,0.342253 -0.0126,0.515442 0,11.42219 9.3629545,20.617672 20.9931735,20.617672 11.630219,0 20.993174,-9.195482 20.993174,-20.617672 0,-0.173189 -0.0084,-0.343285 -0.0126,-0.515442 -0.27711,11.181994 -9.530901,20.10223 -20.980578,20.10223 -11.453876,0 -20.7034675,-8.920236 -20.9805775,-20.10223"
-     id="path59" />
+     id="path59"
+     style="fill:#86cfda" />
   <path
      d="M 23.874695,3.307429 A 20.934295,20.934295 0 0 0 4.3702121,16.903555 H 43.582236 A 20.934295,20.934295 0 0 0 23.97518,3.307429 a 20.934295,20.934295 0 0 0 -0.100855,0 z"
      fill="url(#linearGradient2785)"
