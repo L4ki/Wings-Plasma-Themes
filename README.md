@@ -818,5 +818,23 @@ Aurorae Themes
 
 Update: shade.svg
 
+Changelog: 10.12.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Added icon: telegram.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Added icon: telegram.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
