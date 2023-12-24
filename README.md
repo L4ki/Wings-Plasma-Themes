@@ -859,5 +859,28 @@ Aurorae Themes
 
 Update: minimize.svg
 
+Changelog: 24.12.2023.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma"
+-------------------------------
+
+Update widget: switch.svg
+
+Plasma Theme "Wings-Light-Plasma"
+---------------------------------
+
+Update widget: switch.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Aurorae Themes
+--------------
+
+Update: maximize.svg
+
 
 
