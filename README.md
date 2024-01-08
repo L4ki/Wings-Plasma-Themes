@@ -905,5 +905,18 @@ Aurorae Themes
 
 Update: decoration.svg
 
+Changelog: 08.01.2024.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma" and "Wings-Light-Plasma"
+--------------------------------------------------------
+
+Update icon: veracrypt.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
 
 
