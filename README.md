@@ -919,4 +919,23 @@ Icons
 Added new icons: apps 48
 
 
+Changelog: 15.01.2024.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma" and "Wings-Light-Plasma"
+--------------------------------------------------------
+
+Added icon icon: solaar.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Aurorae Themes
+--------------
+
+Update: restore.svg
+
+
 
