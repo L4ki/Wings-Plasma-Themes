@@ -925,7 +925,7 @@ Changelog: 15.01.2024.
 Plasma Theme "Wings-Dark-Plasma" and "Wings-Light-Plasma"
 --------------------------------------------------------
 
-Added icon icon: solaar.svg
+Added icon: solaar.svg
 
 Icons
 -----
