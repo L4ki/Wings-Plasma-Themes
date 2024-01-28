@@ -59,13 +59,13 @@ Screenshots "Wings-Light-Plasma":
 ![5](https://user-images.githubusercontent.com/45247573/221347439-aba61063-0d12-44e2-bdaa-87899b78288c.png)
 
 
-Changelog: 22.01.2024.
+Changelog: 29.01.2024.
 ----------------------
 
 Plasma Theme "Wings-Dark-Plasma" and "Wings-Light-Plasma"
 --------------------------------------------------------
 
-Update widget: background.svg
+Update widget: translucentbackground.svg
 
 Icons
 -----
@@ -75,7 +75,7 @@ Added new icons: apps 48
 Aurorae Themes
 --------------
 
-Update: keepbelow.svg
+Update: maximize.svg
 
 
 
