@@ -59,7 +59,7 @@ Screenshots "Wings-Light-Plasma":
 ![5](https://user-images.githubusercontent.com/45247573/221347439-aba61063-0d12-44e2-bdaa-87899b78288c.png)
 
 
-Changelog: 07.02.2024.
+Changelog: 08.02.2024.
 ----------------------
 
 Plasma Theme "Wings-Dark-Plasma" and "Wings-Light-Plasma"
