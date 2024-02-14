@@ -29,7 +29,27 @@ Download: https://www.pling.com/p/1994292
   </body>
 </html>
 
+_____________________________________
 
+Changelog: 15.02.2024.
+----------------------
+
+Plasma Theme "Wings-Dark-Plasma" and "Wings-Light-Plasma"
+--------------------------------------------------------
+
+Update widget: containment-controls.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Aurorae Themes
+--------------
+
+Update: help.svg
+
+________________________________________________________
 
 Screenshots "Wings-Dark-Plasma":
 ---------------------------------
