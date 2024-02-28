@@ -7,7 +7,7 @@
    viewBox="0 0 97.999997 208"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -171,9 +171,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.1864226"
-     inkscape:cx="15.063915"
-     inkscape:cy="100.89685"
+     inkscape:zoom="2.253141"
+     inkscape:cx="68.349028"
+     inkscape:cy="119.16697"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -181,7 +181,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -194,7 +194,13 @@
      inkscape:deskcolor="#000000">
     <inkscape:grid
        type="xygrid"
-       id="grid344" />
+       id="grid344"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -289,7 +295,7 @@
        style="opacity:1;fill:currentColor;fill-opacity:0.8;stroke-width:0.6875"
        class="ColorScheme-Background" />
     <rect
-       style="opacity:0.01;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.15468"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.15468"
        id="hint-top-margin"
        width="3.9999995"
        height="7.99997"
@@ -301,17 +307,17 @@
        height="8.000104"
        width="3.9999995"
        id="hint-bottom-margin"
-       style="opacity:0.01;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.1547" />
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.1547" />
     <rect
        y="84"
        x="719.29913"
        height="8.0000134"
        width="3.9999967"
        id="hint-right-margin"
-       style="opacity:0.01;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.15468"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.15468"
        transform="rotate(90)" />
     <rect
-       style="opacity:0.01;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.15468"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.15468"
        id="hint-left-margin"
        width="3.9999967"
        height="7.999999"
@@ -353,9 +359,9 @@
        height="11.999993"
        width="3.9999995"
        id="shadow-hint-top-margin"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.41422" />
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.41422" />
     <rect
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.41421"
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.41421"
        id="shadow-hint-bottom-margin"
        width="3.9999995"
        height="11.999969"
@@ -363,7 +369,7 @@
        y="744.36218" />
     <rect
        transform="rotate(90)"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.41422"
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.41422"
        id="shadow-hint-right-margin"
        width="3.9999731"
        height="12.000003"
@@ -376,7 +382,7 @@
        height="12.000003"
        width="4.0000196"
        id="shadow-hint-left-margin"
-       style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.41421" />
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.41421" />
     <g
        id="mask-top"
        transform="matrix(0.99999765,0,0,0.99999753,-218.99971,66.002256)"
@@ -471,7 +477,7 @@
          class="ColorScheme-Background" />
     </g>
     <rect
-       style="opacity:0.01;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.182576"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.182576"
        id="hint-top-inset"
        width="3.9999995"
        height="0.19999978"
@@ -483,17 +489,17 @@
        height="0.19999978"
        width="3.9999993"
        id="hint-bottom-inset"
-       style="opacity:0.01;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.182576" />
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.182576" />
     <rect
        y="84.000023"
        x="724.29901"
        height="0.19999996"
        width="3.9999967"
        id="hint-right-inset"
-       style="opacity:0;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.182574"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.182574"
        transform="rotate(90)" />
     <rect
-       style="opacity:0.01;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.182576"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.182576"
        id="hint-left-inset"
        width="3.9999962"
        height="0.19999996"
@@ -506,9 +512,9 @@
        height="11.999993"
        width="3.9999993"
        id="shadow-hint-top-inset"
-       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41422" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41422" />
     <rect
-       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
        id="shadow-hint-bottom-inset"
        width="3.9999993"
        height="11.999969"
@@ -516,7 +522,7 @@
        y="744.36218" />
     <rect
        transform="rotate(90)"
-       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41422"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41422"
        id="shadow-hint-right-inset"
        width="3.9999731"
        height="12.000003"
@@ -529,7 +535,7 @@
        height="12.000003"
        width="4.0000196"
        id="shadow-hint-left-inset"
-       style="opacity:0.01;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421" />
     <g
        id="shadow-topright"
        transform="matrix(0.46460136,0,0,0.46460129,-114.33238,554.41104)">
