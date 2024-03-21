@@ -11,6 +11,7 @@ TitleVerticalAlignment=Center
 UseTextShadow=true
 Animation=0
 
+
 [Layout]
 BorderTop=4
 BorderLeft=1
