@@ -31,13 +31,13 @@ Download: https://www.pling.com/p/1994292
 
 _____________________________________
 
-Changelog: 21.03.2024.
+Changelog: 28.03.2024.
 ----------------------
 
 Plasma Theme "Wings-Dark-Plasma" and "Wings-Light-Plasma"
 --------------------------------------------------------
 
-Update widget: tasks.svg
+Update widget: arrows.svg
 
 Icons
 -----
@@ -47,7 +47,7 @@ Added new icons: apps 48
 Aurorae Themes
 --------------
 
-Update: rc file
+Update: metadata.desktop
 
 ________________________________________________________
 
