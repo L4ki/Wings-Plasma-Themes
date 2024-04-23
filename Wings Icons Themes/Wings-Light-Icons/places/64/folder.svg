@@ -5,7 +5,7 @@
    height="64"
    id="svg15"
    sodipodi:docname="folder.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,7 +24,7 @@
 </style>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -32,12 +32,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      id="namedview17"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="6.9384853"
-     inkscape:cx="63.486479"
-     inkscape:cy="25.581952"
+     inkscape:cx="25.798138"
+     inkscape:cy="37.039784"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,7 +47,13 @@
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid988" />
+       id="grid988"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs5455">
@@ -296,10 +302,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1881"
-       x="-0.09064882"
+       x="-0.090648818"
        width="1.1812976"
-       y="-0.40803665"
-       height="1.8160733">
+       y="-0.40803619"
+       height="1.8160724">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.85615684"
