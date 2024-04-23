@@ -31,18 +31,18 @@ Download: https://www.pling.com/p/1994292
 
 _____________________________________
 
-Changelog: 05.04.2024.
+Changelog: 23.04.2024.
 ----------------------
 
-Plasma Theme "Wings-Dark-Plasma"
---------------------------------------------------------
+Plasma Themes
+-------------
 
-Update widget: listitem.svg
+Update widget: tabbar.svg
 
 Aurorae Themes
 --------------
 
-Update: metadata.desktop
+Update: Aurorae.rc
 
 ________________________________________________________
 
