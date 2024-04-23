@@ -32,7 +32,12 @@ Download: https://www.pling.com/p/1994292
 _____________________________________
 
 Changelog: 23.04.2024.
-----------------------
+---------------------
+
+Icons
+-----
+
+Update icons: places
 
 Plasma Themes
 -------------
