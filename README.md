@@ -31,23 +31,23 @@ Download: https://www.pling.com/p/1994292
 
 _____________________________________
 
-Changelog: 23.04.2024.
+Changelog: 30.04.2024.
 ---------------------
 
 Icons
 -----
 
-Update icons: places
+Update icons: apps 48
 
 Plasma Themes
 -------------
 
-Update widget: tabbar.svg
+Update widget: button.svg
 
 Aurorae Themes
 --------------
 
-Update: Aurorae.rc
+Update: metadata.desktop
 
 ________________________________________________________
 
