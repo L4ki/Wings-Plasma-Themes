@@ -4,7 +4,7 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    version="1.0"
    sodipodi:docname="slider.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -26,7 +26,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
-     bordercolor="#eb0000"
+     bordercolor="#cc0000"
      borderopacity="1"
      gridtolerance="10000"
      guidetolerance="10"
@@ -34,15 +34,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.828427"
-     inkscape:cx="76.367536"
-     inkscape:cy="80.079847"
+     inkscape:cx="42.779962"
+     inkscape:cy="111.36932"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -58,7 +58,7 @@
        visible="true"
        empspacing="2"
        empopacity="0.36078431"
-       opacity="0.43529412"
+       opacity="0.435294"
        empcolor="#4d4dff"
        color="#3333ff"
        spacingy="1"
@@ -66,7 +66,8 @@
        originy="0"
        originx="0"
        type="xygrid"
-       id="GridFromPre046Settings" />
+       id="GridFromPre046Settings"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs4">
