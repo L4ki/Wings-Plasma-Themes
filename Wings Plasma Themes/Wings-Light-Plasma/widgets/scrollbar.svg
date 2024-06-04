@@ -8,7 +8,7 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="scrollbar.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +20,7 @@
   <sodipodi:namedview
      id="namedview475"
      pagecolor="#000000"
-     bordercolor="#f80000"
+     bordercolor="#990000"
      borderopacity="1"
      inkscape:showpageshadow="false"
      inkscape:pageopacity="0"
@@ -28,18 +28,24 @@
      inkscape:deskcolor="#000000"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="30.052037"
-     inkscape:cy="27.267804"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="26.624999"
+     inkscape:cy="37.062498"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid2989" />
+       id="grid2989"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs470" />
