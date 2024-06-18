@@ -31,7 +31,7 @@ Download: https://www.pling.com/p/1994292
 
 _____________________________________
 
-Changelog: 11.06.2024.
+Changelog: 18.06.2024.
 ---------------------
 
 Icons
@@ -42,7 +42,7 @@ Added new icons: apps 48
 Plasma Themes
 -------------
 
-Update widget: margins-highlight.svg
+Update widget: background.svg
 
 Aurorae Themes
 --------------
