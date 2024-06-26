@@ -1,58 +1,33 @@
 # Wings-Plasma-Themes
-Wings Themes For Plasma Desktop
 
+[![paypal](https://img.shields.io/badge/donate-PayPal-ff69b4.svg?style=flat-square)](https://www.paypal.com/paypalme/VesnaLazic)
 
-"Wings-Dark-Plasma" 
-------------------
+## Description
 
-Download: https://www.pling.com/p/1982111/
--------------------------------------------
+`Wings*` themes for Plasma Desktop.
 
-"Wings-Light-Plasma" 
---------------------
+## Installation
 
-Download: https://www.pling.com/p/1994292
-------------------------------------------
+- [`Wings-Dark-Plasma`](https://www.pling.com/p/1982111/)
+- [`Wings-Light-Plasma`](https://www.pling.com/p/1994292)
 
+## Changelog: 25.06.2024.
 
-
-<html>
-  <head>
-    <meta charset="utf-8" />
-  </head>
-  <body>
-    <h2>Donate</h2>
-    <h2>If you like my project, you can donate at:</h2>
-    <a href="https://www.paypal.com/paypalme/VesnaLazic">
-    <img src="PayPal.png" alt="PayPal" />
-    </a>
-  </body>
-</html>
-
-_____________________________________
-
-Changelog: 25.06.2024.
----------------------
-
-Icons
------
+### Icons
 
 Added new icons: apps 48
 
-Plasma Themes
--------------
+### Plasma Themes
 
 Update widget: bar_meter_horizontal.svg
 
-Aurorae Themes
---------------
+### Aurorae Themes
 
 Update: metadata.desktop
 
-________________________________________________________
+## Screenshots
 
-Screenshots "Wings-Dark-Plasma":
----------------------------------
+### `Wings-Dark-Plasma`
 
 ![Screenshot_20230202_130049](https://user-images.githubusercontent.com/45247573/216758215-4054236a-ee46-49e2-99ac-70b71fdda94e.png)
 
@@ -64,9 +39,7 @@ Screenshots "Wings-Dark-Plasma":
 
 ![Screenshot_20230202_130137](https://user-images.githubusercontent.com/45247573/216758268-bda8089d-5140-43f8-99ee-a8f65d2e9175.png)
 
-
-Screenshots "Wings-Light-Plasma":
----------------------------------
+### `Wings-Light-Plasma`
 
 ![1](https://user-images.githubusercontent.com/45247573/221347389-12c3cdc7-e264-4dfe-88e1-5a08a89682bc.jpg)
 
@@ -77,6 +50,3 @@ Screenshots "Wings-Light-Plasma":
 ![4-Logo](https://user-images.githubusercontent.com/45247573/221347427-25d51de8-93f5-48ed-9034-d87ab44a01ed.png)
 
 ![5](https://user-images.githubusercontent.com/45247573/221347439-aba61063-0d12-44e2-bdaa-87899b78288c.png)
-
-
-
