@@ -1,14 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
-      </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="folder-sound.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="47.75"
+     inkscape:cx="7.9895288"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
   </defs>
-    <path
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" 
-       d="M 7 3 L 7 4 L 7 14.503906 A 2.5 2.5 0 0 0 5.5 14 A 2.5 2.5 0 0 0 3 16.5 A 2.5 2.5 0 0 0 5.5 19 A 2.5 2.5 0 0 0 8 16.5 L 8 7 L 18 7 L 18 12.503906 A 2.5 2.5 0 0 0 16.5 12 A 2.5 2.5 0 0 0 14 14.5 A 2.5 2.5 0 0 0 16.5 17 A 2.5 2.5 0 0 0 19 14.5 L 19 4 L 19 3.5 L 19 3 L 8 3 L 7 3 z M 8 4 L 18 4 L 18 6 L 8 6 L 8 4 z "
-        class="ColorScheme-Text"
-       id="path4867" />
+  <path
+     style="fill:#000000"
+     d="M 7,2 C 5,2 5,4 5,4 v 6.300781 C 4.7050003,10.100781 4.3999996,10 4,10 c -1.0999989,0 -2,0.900001 -2,2 0,1.099999 0.9000011,2 2,2 1.0999989,0 2,-0.900001 2,-2 V 5 c 0,0 0,-1 1,-1 1,0 4,0 5,0 1,0 1,1 1,1 V 8.3007812 C 12.705,8.1007814 12.4,8 12,8 c -1.099999,0 -2,0.9000011 -2,2 0,1.099999 0.900001,2 2,2 1.099999,0 2,-0.900001 2,-2 V 4 C 14,4 14,2 12,2 10,2 9,2 7,2 Z"
+     class="ColorScheme-Text"
+     id="path1" />
 </svg>
