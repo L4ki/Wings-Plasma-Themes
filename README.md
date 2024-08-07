@@ -31,18 +31,18 @@ Download: https://www.pling.com/p/1994292
 
 _____________________________________
 
-Changelog: 31.07.2024.
+Changelog: 07.08.2024.
 ---------------------
 
 Icons
 -----
 
-Update icons: actions, places
+Added new icons: apps 48
 
 Plasma Themes
 -------------
 
-Update widget: tabbar.svg
+Update widget: pager.svg
 
 Aurorae Themes
 --------------
