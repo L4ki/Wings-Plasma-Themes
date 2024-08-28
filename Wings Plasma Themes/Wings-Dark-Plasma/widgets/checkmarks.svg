@@ -6,7 +6,7 @@
    sodipodi:docname="checkmarks.svg"
    width="44"
    height="26"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -16,7 +16,7 @@
   <sodipodi:namedview
      id="namedview39"
      pagecolor="#000000"
-     bordercolor="#f80000"
+     bordercolor="#cc0000"
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -24,11 +24,11 @@
      showgrid="true"
      height="32px"
      inkscape:current-layer="svg2"
-     inkscape:zoom="6.9384858"
-     inkscape:cx="24.861332"
-     inkscape:cy="12.899068"
+     inkscape:zoom="9.8125007"
+     inkscape:cx="23.64331"
+     inkscape:cy="31.235667"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40,7 +40,11 @@
        type="xygrid"
        id="grid919"
        originx="0"
-       originy="4.4408921e-16" />
+       originy="4.4408921e-16"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <style
      id="current-color-scheme"
