@@ -31,26 +31,6 @@ Download: https://www.pling.com/p/1994292
 
 _____________________________________
 
-Changelog: 28.08.2024.
----------------------
-
-Icons
------
-
-Added new icons: apps 48
-
-Plasma Themes
--------------
-
-Update widget: checkmarks.svg
-
-Aurorae Themes
---------------
-
-Update: metadata.desktop
-
-________________________________________________________
-
 Screenshots "Wings-Dark-Plasma":
 ---------------------------------
 
@@ -77,6 +57,26 @@ Screenshots "Wings-Light-Plasma":
 ![4-Logo](https://user-images.githubusercontent.com/45247573/221347427-25d51de8-93f5-48ed-9034-d87ab44a01ed.png)
 
 ![5](https://user-images.githubusercontent.com/45247573/221347439-aba61063-0d12-44e2-bdaa-87899b78288c.png)
+
+_____________________________________
+
+Changelog: 04.09.2024.
+---------------------
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Themes
+-------------
+
+Update widget: toolbar.svg
+
+Aurorae Themes
+--------------
+
+Update: metadata.desktop
 
 
 
