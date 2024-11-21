@@ -5,7 +5,7 @@
    viewBox="0 0 50 50"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="frame.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,13 +21,13 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
-     bordercolor="#ff1414"
+     bordercolor="#ff0000"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
      inkscape:cx="29.955357"
-     inkscape:cy="28.080357"
+     inkscape:cy="28.125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,7 @@
      fit-margin-right="10"
      fit-margin-bottom="10"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +54,8 @@
        originx="0"
        originy="0"
        spacingx="1"
-       spacingy="1" />
+       spacingy="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs2">
