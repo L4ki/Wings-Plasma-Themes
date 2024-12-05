@@ -4,7 +4,7 @@
    height="103.5"
    id="svg2396"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    version="1.0"
    sodipodi:docname="scrollwidget.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -269,18 +269,18 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
-     bordercolor="#ff0d0d"
+     bordercolor="#ff0000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.641292"
      inkscape:cx="53.311659"
-     inkscape:cy="47.218898"
+     inkscape:cy="47.523536"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -295,7 +295,12 @@
      inkscape:deskcolor="#000000">
     <inkscape:grid
        type="xygrid"
-       id="grid235" />
+       id="grid235"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata2401">
