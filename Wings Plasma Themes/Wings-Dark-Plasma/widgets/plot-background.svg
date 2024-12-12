@@ -3,7 +3,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="plot-background.svg"
    version="1.0"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:version="0.32"
    id="svg2"
    height="600"
@@ -54,13 +54,13 @@
      showgrid="true"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      height="600px"
      width="800px"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="421.42857"
+     inkscape:cy="422.85714"
      inkscape:cx="452.85714"
      inkscape:zoom="0.35"
      inkscape:pageshadow="2"
@@ -69,7 +69,7 @@
      guidetolerance="10"
      gridtolerance="10000"
      borderopacity="1"
-     bordercolor="#fa0000"
+     bordercolor="#ff0000"
      pagecolor="#000000"
      id="base"
      inkscape:showpageshadow="false"
@@ -77,7 +77,12 @@
      inkscape:deskcolor="#000000">
     <inkscape:grid
        type="xygrid"
-       id="grid1378" />
+       id="grid1378"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
