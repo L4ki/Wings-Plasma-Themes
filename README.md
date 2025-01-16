@@ -60,13 +60,13 @@ Screenshots "Wings-Light-Plasma":
 
 _____________________________________
 
-Changelog: 09.01.2025.
+Changelog: 16.01.2025.
 ---------------------
 
 Icons
 -----
 
-Added new icons: actions 22
+Added new icons: apps 48
 
 Plasma Themes
 -------------
