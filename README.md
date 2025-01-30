@@ -60,7 +60,7 @@ Screenshots "Wings-Light-Plasma":
 
 _____________________________________
 
-Changelog: 23.01.2025.
+Changelog: 30.01.2025.
 ---------------------
 
 Icons
@@ -71,7 +71,7 @@ Added new icons: apps 48
 Plasma Themes
 -------------
 
-Update widget: lineedit.svg
+Update: metadata.desktop
 
 Aurorae Themes
 --------------
