@@ -60,7 +60,7 @@ Screenshots "Wings-Light-Plasma":
 
 _____________________________________
 
-Changelog: 30.01.2025.
+Changelog: 13.02.2025.
 ---------------------
 
 Icons
