@@ -60,7 +60,7 @@ Screenshots "Wings-Light-Plasma":
 
 _____________________________________
 
-Changelog: 27.02.2025.
+Changelog: 06.03.2025.
 ---------------------
 
 Icons
@@ -73,10 +73,7 @@ Plasma Themes
 
 Update: metadata.desktop
 
-Aurorae Themes
---------------
 
-Update: metadata.desktop
 
 
 
