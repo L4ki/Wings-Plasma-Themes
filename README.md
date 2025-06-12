@@ -71,7 +71,7 @@ Added new icons: apps 48
 Plasma Themes
 -------------
 
-Update widget: metadata.desktop
+Update: metadata.desktop
 
 
 
