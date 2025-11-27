@@ -1,13 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
   <defs id="defs4157">
-    <style id="current-color-scheme" type="text/css">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-NegativeText{
-        color:#e74c3c;
-      }
-    </style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#31363b;}.ColorScheme-NegativeText { color: #e74c3c; } </style>
   </defs>
   <g transform="translate(1,1)">
     <path id="path4439-7" d="M 19,3 3,19 h 12.90234 l -0.85351,-0.853516 2.15234,-2.15039 -2.15234,-2.152344 1.30859,-1.306641 0.45899,-0.460937 2.15234,2.152344 0.0312,-0.03125 z" style="opacity:0.35;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" class="ColorScheme-Text"/>
